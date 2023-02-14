@@ -1,5 +1,5 @@
 body {
-    background: rgba(243, 4, 4, 0.486);
+    background: rgba(253, 198, 198, 0.486);
 }
 span {
     color: whitesmoke;
@@ -9,4 +9,13 @@ span {
    padding-bottom: 10px;
     margin-left: 5px;
     margin-right: 5px;
+}
+
+.container{
+    padding: 10px;
+    text-align: center;
+}
+i{
+    width: 20px;
+    height: 20px;
 }
